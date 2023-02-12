@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mizuki's first wiki.md",
+                "file": "Mizuki's  Wiki.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mizuki's first wiki.md",
+                "file": "Mizuki's  Wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mizuki's first wiki.md",
+                "file": "Mizuki's  Wiki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mizuki's first wiki.md"
+                "file": "Mizuki's  Wiki.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "8885e5d663b49469",
   "lastOpenFiles": [
-    "Modern Software Engineering Doing What Works to Build Better Software Faster.md",
-    "Mizuki's first wiki.md",
-    "Unit Testing Principles, Practices, and Patterns.md"
+    "Union Find.md",
+    "Union by Size.md",
+    "グラフアルゴリズム.md",
+    "Graph Algorithm.md",
+    "Mizuki's  Wiki.md",
+    "Unit Testing Principles, Practices, and Patterns.md",
+    "Modern Software Engineering Doing What Works to Build Better Software Faster.md"
   ]
 }
